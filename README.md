@@ -1,5 +1,25 @@
-# 💫 About Me:
-# 🚀 Assalamualaikum! I'm Owais Raza!<br><br>### Video Editor 🎬 | Motion Designer 🎨 | Full-Stack Web Dev Learner 💻 | Future AI Engineer 🤖<br><br>I bridge the gap between creative storytelling and code, blending cinematic visuals with interactive technology to build immersive digital experiences. From high-impact video editing to dynamic React web applications and 3D worlds, I love pushing the boundaries of what's possible.<br><br>---<br><br>## 🧠 Core Stack & Technologies<br><br>| Category | Tools & Technologies |<br>| :--- | :--- |<br>| **Creative & VFX** | ![Premiere Pro](https://img.shields.io/badge/Premiere_Pro-9999FF?style=flat-square&logo=Adobe-Premiere-Pro&logoColor=white) ![After Effects](https://img.shields.io/badge/After_Effects-9999FF?style=flat-square&logo=Adobe-After-Effects&logoColor=white) ![Photoshop](https://img.shields.io/badge/Photoshop-00C8FF?style=flat-square&logo=Adobe-Photoshop&logoColor=white) ![Illustrator](https://img.shields.io/badge/Illustrator-FF9A00?style=flat-square&logo=Adobe-Illustrator&logoColor=white) ![Blender](https://img.shields.io/badge/Blender-F5792A?style=flat-square&logo=Blender&logoColor=white) |<br>| **Web Development** | ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white) |<br>| **Interactive & Gaming**| ![Roblox](https://img.shields.io/badge/Roblox_Studio-000000?style=flat-square&logo=Roblox&logoColor=white) |<br><br>---<br><br>## ⚙️ What I'm Working On<br><br>*   🎬 **Cinematic Production:** Delivering successful, premium video editing and motion graphics projects.<br>*   🕹️ **Barbaroslar Simulator:** Developing an interactive historical ship game utilizing vanilla JavaScript and React.<br>*   🌀 **3D & VFX:** Simulating realistic environments and step-by-step CGI workflows inside Blender.<br>*   🤖 **AI Research:** Experimenting with AI-powered automation, custom prompt workflows, and layout generation.<br><br>---<br><br>## 🎯 The Horizon<br><br>*   **Next Milestone:** Deep-diving into AI Agent creation and LLM application development.<br>*   **Ultimate Goal:** Evolving into an **AI Engineer** who fuses intelligent machine models with cutting-edge front-end design.<br><br>---<br><br>## 📊 GitHub Stats<br><br><p align="left"><br>  <img src="https://github-readme-stats.vercel.app/api?username=0wais-raza&show_icons=true&theme=tokyonight&hide_border=true" alt="CyberVizier's GitHub Stats" width="400" /><br>  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=0wais-raza&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="300" /><br></p><br><br>*“The shield protects the brave, but the sword carves out destiny.”* ✨
+# Muhammad Owais Raza
+
+A digital creator navigating the intersection of visual media and engineering. I build immersive web applications, direct cinematic visual edits, and study autonomous intelligence systems.
+
+---
+
+### Focus Areas
+
+*   **Engineering** — Building with JavaScript, React.js, and experimenting with Roblox Studio.
+*   **Media & VFX** — Post-production editing, motion typography, and 3D simulation in Blender.
+*   **Trajectory** — Learning AI agent infrastructure with the ultimate aim of AI Engineering.
+
+---
+
+### Tech & Tooling
+
+*   **Development:** React, JavaScript (ES6+), HTML5, CSS3, Vite
+*   **Design & Motion:** Premiere Pro, After Effects, Photoshop, Blender
+
+---
+
+*“The shield protects the brave, but the sword carves out destiny.”*
 
 
 ## 🌐 Socials:
