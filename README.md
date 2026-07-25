@@ -6,16 +6,16 @@
   <h3>⚡ <i>Digital Creator • Video Editor • VFX Learner • Developer</i> ⚡</h3>
 
   <p align="center">
-    A digital creator navigating the intersection of visual media and engineering. I build immersive web applications, direct cinematic visual edits, and study autonomous intelligence systems.
+    A digital creator navigating the intersection of visual media and engineering. I build immersive web <br> applications, direct cinematic visual edits, and study autonomous intelligence systems.
   </p>
 
   <p align="center">
     <i>"The shield protects the brave, but the sword carves out destiny."</i>
   </p>
-
+ <br>
   <!-- Typing Effect Banner -->
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=00F0FF&center=true&vcenter=true&width=600&lines=Building+Immersive+Web+Applications;Directing+Cinematic+Visual+Edits;Studying+Autonomous+Intelligence+Systems;Engineering+with+React%2C+JavaScript+%26+Blender" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=35&duration=3000&pause=1000&color=00F0FF&center=true&vcenter=true&width=1000&lines=Building+Immersive+Web+Applications;Directing+Cinematic+Visual+Edits;Studying+Autonomous+Intelligence+Systems;Engineering+with+React%2C+JavaScript+%26+Blender" alt="Typing SVG" />
   </a>
 
   <br/><br/>
