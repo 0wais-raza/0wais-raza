@@ -1,7 +1,7 @@
 <div align="center">
 
   <!-- Header Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=22,10,10,22&height=220&section=header&text=Muhammad%20Owais%20Raza&fontSize=42&fontColor=DAA520&animation=twinkling&fontAlignY=38" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=22,10,10,22&height=220&section=header&text=Muhammad%20Owais%20Raza&fontSize=42&fontColor=FFFFFF&animation=pulse&fontAlignY=38" width="100%" />
 
   <h3>⚡ <i>Digital Creator • Video Editor • VFX Learner • Developer</i> ⚡</h3>
 
