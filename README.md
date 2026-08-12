@@ -15,7 +15,7 @@
 
   <!-- Hero Portfolio Button -->
   <a href="https://owaisraza.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/🌐_Visit_Portfolio-00F0FF?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+    <img src="https://img.shields.io/badge/🌐_Visit_Portfolio-300F05?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
   </a>
 
   <br/><br/>
@@ -28,7 +28,7 @@
   <br/><br/>
 
   <!-- Social Badges -->
-[![Portfolio](https://img.shields.io/badge/Portfolio-00F0FF?logo=vercel&logoColor=white)](https://owaisraza.vercel.app/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/itz_professionalofficial) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/owais-raza-pro) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@lol-wave-official) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:owaispro300@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-300F05?logo=vercel&logoColor=white)](https://owaisraza.vercel.app/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/itz_professionalofficial) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/owais-raza-pro) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@lol-wave-official) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:owaispro300@gmail.com)
 
 # 💻 Tech Stack:
 
